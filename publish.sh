@@ -1,0 +1,1 @@
+dotnet publish ./HardyStrategies.ConsoleApp.DotnetTrainer -o /c/dev/builds/dotnet-trainer -c Releas
